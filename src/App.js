@@ -19,7 +19,7 @@ function Details1(props) {
         <div className="card-body">
           <small className="fadetext">FREE</small>
           <h1>$0<small className="month">/month</small></h1>
-          <hr width="400px"></hr>
+          <hr></hr>
           <ul className="ul" type="none">
           <li ><i className="fas fa-check"></i> Single User</li>
           <li ><i className="fas fa-check"></i> 5GB Storage</li>
@@ -45,7 +45,7 @@ function Details2(props) {
         <div className="card-body">
           <small className="fadetext">FREE</small>
           <h1>$9<small className="month">/month</small></h1>
-          <hr width="400px"></hr>
+          <hr></hr>
             <ul className="ul" type="none">
             <li ><i className="fas fa-check"></i><b> 5 Users</b></li>
             <li ><i className="fas fa-check"></i> 50GB Storage</li>
@@ -71,7 +71,7 @@ function Details2(props) {
           <div className="card-body">
           <small className="fadetext">FREE</small>
           <h1>$49<small className="month">/month</small></h1>
-          <hr width="400px"></hr>
+          <hr></hr>
               <ul className="ul" type="none">
               <li ><i className="fas fa-check"></i><b> Unlimited Users</b></li>
               <li ><i className="fas fa-check"></i> 150GB Storage</li>

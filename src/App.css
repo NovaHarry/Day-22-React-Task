@@ -53,6 +53,9 @@ ul li{
 h1{
   font-size: 70px;
 }
+hr{
+  width:400px;
+}
 @media only screen and (max-width: 600px){
   .container-fluid{
     height:auto;
@@ -61,5 +64,9 @@ h1{
   }
   .card:hover{
     translate:0;
+  }
+  .card{
+    height:fit-content;
+    width:fit-content;
   }
 }
