@@ -56,5 +56,10 @@ h1{
 @media only screen and (max-width: 600px){
   .container-fluid{
     height:auto;
+    width:auto;
+    padding:50px;
+  }
+  .card:hover{
+    translate:0;
   }
 }

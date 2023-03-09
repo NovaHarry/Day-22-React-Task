@@ -15,7 +15,7 @@ export default function App() {
 function Details1(props) {
   return (
     <div className="col-lg-4">
-      <div className="card">
+      <div className="card mb-5 mb-lg-0">
         <div className="card-body">
           <small className="fadetext">FREE</small>
           <h1>$0<small className="month">/month</small></h1>
